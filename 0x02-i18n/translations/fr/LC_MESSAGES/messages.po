@@ -26,13 +26,13 @@ msgstr "Bienvenue chez Holberton"
 msgid "home_header"
 msgstr "Bonjour monde!"
 
-#: venv/lib/python3.8/site-packages/click/_termui_impl.py:496
-msgid "{editor}: Editing failed"
-msgstr ""
+#: 5-index.html
+msgid "logged_in_as"
+msgstr "Vous êtes connecté en tant que %(username)s."
 
-#: venv/lib/python3.8/site-packages/click/_termui_impl.py:500
-msgid "{editor}: Editing failed: {e}"
-msgstr ""
+#: 5-index.html
+msgid "not_logged_in"
+msgstr "Vous n'êtes pas connecté."
 
 #: venv/lib/python3.8/site-packages/click/core.py:1097
 msgid "Aborted!"
